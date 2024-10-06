@@ -8,7 +8,7 @@ import Startpage from './Pages /Startpage';
 
 const App = () => {
   return (
-    <SafeAreaView>
+    <SafeAreaView >
     <ScrollView >
     <Startpage/>
     {/* <Flatcard/>
